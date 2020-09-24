@@ -1,0 +1,30 @@
+post 方法失效  get 可以
+csrf  问题 
+方法 https://ask.csdn.net/questions/783817
+
+git
+本体提交 https://segmentfault.com/a/1190000015044312
+修改url    https://blog.csdn.net/kmust20093211/article/details/48137611?utm_source=blogxgwz6
+无法上传 参考https://blog.csdn.net/qq_39400546/article/details/100150320
+
+配置代理win+r  driver -》etc-》host
+
+创建项目 先配置好php环境变量  D:\PHP\wamp64\bin\php\php7.3.21
+composer create-project --prefer-dist laravel/laravel  blog 5.4.*
+配置wamp
+https://blog.csdn.net/woqianduo/article/details/80516500
+
+csrf 验证
+https://www.jb51.net/article/172389.htm
+
+修改.htaccess会导致路由失效
+https://learnku.com/laravel/t/15969
+
+报错
+Syntax error or access violation: 1231 Variable 'sql_mode' can't be set to the value of 'NO_AUTO_CREATE_USER'
+解决
+https://www.cnblogs.com/yaoliuyang/p/12395769.html
+
+将控制器放到对应的文件夹中
+https://www.it1352.com/1543153.html
+
